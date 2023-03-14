@@ -1,3 +1,4 @@
+#This is the game's code
 #Update 1.1 Main Purpose of this update: Spelling Mistkes were Correct, another time.sleep was added and nothing added or fixed
 import random
 import time
