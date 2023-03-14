@@ -1,4 +1,4 @@
-#This the Code of "Guess the Number"
+#Update 1.1 Main Purpose of this update: Spelling Mistkes were Correct, another time.sleep was added and nothing added or fixed
 import random
 import time
 
@@ -11,7 +11,7 @@ random_var = random.randint(1, 100)
 sleep = random.randint(1,3)
 
 #Welcoming the user
-print ("Welcome! to random gusser! you'll enter a number try to to guess the number! If the number is wrong the system will says worng and If you're correct then it'll says correct")
+print ("Welcome to random guesser! You'll enter a number try to guess the number! If the number is wrong the system will say its worng and if you're correct then it'll say correct")
 
 #letting the user to guess!
 guess = int(input("Enter a number: "))
@@ -30,3 +30,5 @@ if not guess == random_var:
 #I guess nobody will win! Mabye one in one trillion?
 
 print ("Thanks for playing!!!")
+
+time.sleep (5)
