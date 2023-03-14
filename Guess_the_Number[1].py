@@ -1,7 +1,9 @@
 #This is the game's code
-#Update 1.1 Main Purpose of this update: Spelling Mistkes were Correct, another time.sleep was added and nothing added or fixed
+#Update 1.1.1 Main Purpose of this update: Spelling Mistkes were Correct, another time.sleep and when thanking the user for playing we added the name varible there.
 import random
 import time
+
+Name = input ("Enter your name: ")
 
 
 
@@ -30,6 +32,6 @@ if not guess == random_var:
 
 #I guess nobody will win! Mabye one in one trillion?
 
-print ("Thanks for playing!!!")
+print (f"Thanks for playing{Name}!!!")
 
 time.sleep (5)
