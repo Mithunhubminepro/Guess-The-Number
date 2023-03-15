@@ -32,6 +32,6 @@ if not guess == random_var:
 
 #I guess nobody will win! Mabye one in one trillion?
 
-print (f"Thanks for playing{Name}!!!")
+print (f"Thanks for playing {Name}!!!")
 
 time.sleep (5)
