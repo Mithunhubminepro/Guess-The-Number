@@ -9,4 +9,5 @@ Hello! This is how to play this game
 ~~IMPORTANT: THIS GAME USES PYHTON!!! So if didn't install python IT'LL NOT WORK!!!~~
 
 ~~Download Python from this link:https://www.python.org/downloads/~~
-**From the update 2.1.0 everything, you will not need python to run... But these version do still need python, which are: 1.0, 1.1, 1.1.1 and 1.1.2. The other version don't need python.** More update will come, watch out for them!
+
+**From the update 2.1.0 everything, you will not need python to run... But these version still need python to run, which are: 1.0, 1.1, 1.1.1 and 1.1.2. The other version don't need python.** More update will come, watch out for them!
